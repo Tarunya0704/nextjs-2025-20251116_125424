@@ -1,0 +1,11 @@
+Project: nextjs-2025-20251116_125424
+Created: 2025-11-16 12:54:52
+Figma URL: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=ASOGLmnxQEwyvIZ3-0
+Figma File ID: oWK4dPW26jwz4I3dncfu6S
+
+Dashboard Structure:
+  Colors: 75
+  Cards: 4
+  Images: 10
+  Sidebar Items: 11
+  Filter Tabs: 5
